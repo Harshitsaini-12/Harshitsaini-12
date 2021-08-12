@@ -47,8 +47,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ @harshit_saini12"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt=" @harshit_saini12" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=someone-codes-harshit&show_icons=true&locale=en&layout=compact" alt="someone-codes-harshit" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitsaini-12&show_icons=true&locale=en&layout=compact" alt="harshitsaini-12" /></p>
 <a target="_blank"><img align="right" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=someone-codes-harshit&show_icons=true&locale=en" alt="someone-codes-harshit" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitsaini-12&show_icons=true&locale=en" alt="harshitsaini-12" /></p>
