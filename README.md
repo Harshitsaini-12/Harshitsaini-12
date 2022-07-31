@@ -24,7 +24,7 @@
 </a>
 
 
-- 🔭 I’m currently working on ** Problem solving Skills**
+- 🔭 I’m currently working on **Problem solving Skills**
 
 - 🌱 I’m currently learning **Backend development**
 
