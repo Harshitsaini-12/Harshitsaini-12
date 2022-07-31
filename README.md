@@ -24,9 +24,9 @@
 </a>
 
 
-- 🔭 I’m currently working on **Problem solving Skills**
+- 🔭 I’m currently working on **Problem Solving Skills**
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **Reactjs,UI/UX**
 
